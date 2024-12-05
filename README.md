@@ -24,8 +24,8 @@ This project investigates the mechanical properties of polymers by linking atom-
 - Explanatory Analysis: SHAP values for interpretability and refinement of structure-property relationships.
 
 ### Results
--ML predictions achieve high accuracy with an error margin of 8% compared to MD simulations.
--Atom-level contributions are identified, providing insights into polymer design.
+- ML predictions achieve high accuracy with an error margin of 8% compared to MD simulations.
+- Atom-level contributions are identified, providing insights into polymer design.
 - Integration of ML and MD demonstrates robust predictive capabilities for advanced materials.
 
 ### Future Work
