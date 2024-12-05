@@ -1,5 +1,13 @@
 # UWMadison-MSE760-Final-Project
 
+## MS&E760: Molecular Modeling of Materials (001) FA24
+
+### Student
+
+Name: Jiahui Yang, Mechanical Engineering
+
+Email: jyang753@wisc.edu
+
 ### Overview
 This project investigates the mechanical properties of polymers by linking atom-level structural features to macroscopic behavior using machine learning (ML) and molecular dynamics (MD) simulations. The focus is on the Young's modulus of Poly(imino-1,3-phenyleneiminobut-2-ene-1,4-dioyl), leveraging data-driven models and atom-level explanations.
 
